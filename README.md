@@ -26,4 +26,4 @@ Shortcuts I frequently use:
 Shortcuts I would like to start using:
 -Command-T (Open a new tab)
 -Command-Shift-3 (Screenshot)
-Link:[CLI commands](docs/cli.md)
+## Link:[CLI commands](docs/cli.md)
