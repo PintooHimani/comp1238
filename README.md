@@ -28,3 +28,5 @@ Shortcuts I would like to start using:
 -Command-Shift-3 (Screenshot)
 ## Link:
 [CLI commands](docs/cli.md)
+## Link:
+[JSON to YAML](https://www.bairesdev.com/tools/json2yaml/)
